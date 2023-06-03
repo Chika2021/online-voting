@@ -16,5 +16,7 @@
 	}
 
 	header('location: voters.php');
+
+	//Just angry with this code  for not working
 	
 ?>
